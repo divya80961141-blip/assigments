@@ -1,5 +1,0 @@
-public class divya.world
-public static void main(string{}args) {
-    system.out.println("divya.world");
-
-} 
