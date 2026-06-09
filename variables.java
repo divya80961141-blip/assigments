@@ -1,4 +1,4 @@
-public class variables
+public class Variables
 {
     public static void main(string[]args)
     {
@@ -6,10 +6,10 @@ public class variables
         double y=3.50;
         string z="Divya";
         boolean W=true;
-        system.out.printLn(x);
-        system.out.println(Y);
-        system.out.printLn(Z);
-        system.out.printLn(w);
+        System.out.printLn(x);
+        System.out.printLn(y);
+        System.out.printLn(z);
+        System.out.printLn(w);
     }
 }
 
