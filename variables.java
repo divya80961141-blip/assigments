@@ -1,15 +1,15 @@
 public class Variables
 {
-    public static void main(string[]args)
+    public static void main(String[]args)
     {
         int x=20;
-        double y=3.50;
-        string z="Divya";
+        double y=13.0;
+        String z="Divya";
         boolean W=true;
-        System.out.printLn(x);
-        System.out.printLn(y);
-        System.out.printLn(z);
-        System.out.printLn(w);
+        System.out.println(x);
+        System.out.println(y);
+        System.out.println(z);
+        System.out.println(w);
     }
 }
 
