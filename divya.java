@@ -1,6 +1,7 @@
     public class Divya
     {
-        public static v
+        public static void main(String[] args)
+
 
     
 

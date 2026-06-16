@@ -1,30 +1,32 @@
+import javax.swing.plaf.basic.BasicInternalFrameTitlePane.MaximizeAction;
+
 public class Wrapper
 {
 public static void main(String[] args){
-System.out.printLn(Byte.MIN.VALUE);
-System.out.printLn(Byte.MAX.VALUE);
-System.out.printLn(Byte.SIZE);
-System.out.printLn(Short.MIN.VALUE);
-System.out.printLn(Short.MAX.VALUE);
-System.out.printLn(Short.SIZE);
-System.out.printLn(Integer.MIN.VALUE);
-System.out.printLn(Integer.MAX.VALUE);
-System.out.printLn(Integer.SIZE);
-System.out.printLn(Long.MIN.VALUE);
-System.out.printLn(Long.MAX.VALUE);
-System.out.printLn(Long.SIZE);
-System.out.printLn(Float.MIN.VALUE);
-System.out.printLn(Float.MAX.VALUE);
-System.out.printLn(Float.SIZE);
-System.out.printLn(Double.MIN.VALUE);
-Systen.out.printLn(Double.MAX.VALUE);
-System.out.printLn(Double.SIZE);
-System.out.printLn(Boolean.MIN.VALUE);
-System.out.printLn(Boolean.MAX.VALUES);
-System.out.printLn(Boolean.SIZE);
-System.out.printLn(Character.MIN.VALUE);
-System.out.printLn(Character.MAX.VALUE);
-System.out.printLn(Character.SIZE);
+System.out.println(Byte.MIN_VALUE);
+System.out.println(Byte.MAX_VALUE);
+System.out.println(Byte.SIZE);
+System.out.println(Short.MIN_VALUE);
+System.out.println(Short.MAX_VALUE);
+System.out.println(Short.SIZE);
+System.out.println(Integer.MIN_VALUE);
+System.out.println(Integer.MAX_VALUE);
+System.out.println(Integer.SIZE);
+System.out.println(Long.MIN_VALUE);
+System.out.println(Long.MAX_VALUE);
+System.out.println(Long.SIZE);
+System.out.println(Float.MIN_VALUE);
+System.out.println(Float.MAX_VALUE);
+System.out.println(Float.SIZE);
+System.out.println(Double.MIN_VALUE);
+System.out.println(Double.MAX_VALUE);
+System.out.println(Double.SIZE);
+System.out.println(Boolean.FALSE);
+System.out.println(Boolean.TRUE);
+System.out.println(Character.MIN_VALUE);
+System.out.println(Character.MAX_VALUE);
+System.out.println(Character.SIZE); 
+
 
 }
 }
