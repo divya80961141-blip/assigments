@@ -1,10 +1,14 @@
 public class relational {
     public static void main(String[] args) {
-        boolean x=true;
-        boolean y=false;
-        System.out.println(x==y);
-        System.out.println(x!=y);
-    
+        float y=5.0f;
+        float b=10.2f;
+        System.out.println(y==b);
+        System.out.println(y!=b);
+        System.out.println(y>b);
+        System.out.println(y<b);
+        System.out.println(y>=b);
+        System.out.println(y<=b);
+        
 
 
 
