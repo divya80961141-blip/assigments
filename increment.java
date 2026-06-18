@@ -1,4 +1,4 @@
-public class incremate{
+public class increment{
     
      public static void main(String[] atgs)
      {
