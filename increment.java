@@ -1,6 +1,6 @@
 public class increment{
     
-     public static void main(String[] atgs)
+     public static void main(String[] args)
      {
      int x=10;
       int y= ++x;    
