@@ -1,5 +1,7 @@
 public class logical {
+    public static void main(String[] args)
     
+
    {
       boolean isstudent=true;
       boolean isopen=false;
