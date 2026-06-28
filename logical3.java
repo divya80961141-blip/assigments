@@ -3,7 +3,7 @@ public class logical3 {
     {
     byte chocolate=66;
     byte mango=40;
-    System.out.print(chocolate && mango);
-    System.out.println(chocolate || mango);
+    System.out.print(chocolate  & mango);
+    System.out.println(chocolate  | mango);
     }
 }
