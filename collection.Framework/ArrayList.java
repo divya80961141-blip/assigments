@@ -1,12 +1,12 @@
-package collection.framework;
+
 
 import java.util.ArrayList;
 
-public class ArrayList {
+public class Arraylist {
     
 public static void main(String[] args){
 
-    ArrayList<String> Subjects = new ArrayList<String>();
+  ArrayList<String> Subjects = new ArrayList<>(); 
     Subjects.add(0,"Telugu");
     Subjects.add(1,"English");
     Subjects.add(2,"Hindi");
@@ -19,12 +19,12 @@ public static void main(String[] args){
     System.out.println(Subjects.get(1));
     System.out.println(Subjects.get(2));
     System.out.println(Subjects.get(3));
-    System.out.println(Subject.get(4));
-    System.out.println(Subject);
+    System.out.println(Subjects.get(4));
+    System.out.println(Subjects);
     System.out.println(Subjects.contains("Maths"));
     System.out.println(Subjects.isEmpty());
-  collections.sort(Subjects);
-  System.out.println(subjects)l
+
+  
   Subjects.clear();
   System.out.println(Subjects);
 
