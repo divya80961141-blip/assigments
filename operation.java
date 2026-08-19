@@ -1,7 +1,7 @@
 public class operation {
 
     
-}
+
 public static void main(String[] args)
 {
    int a=50, b=30;
@@ -34,3 +34,5 @@ public static void main(String[] args)
 
 
 }
+}
+
